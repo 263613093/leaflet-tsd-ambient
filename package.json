@@ -1,0 +1,15 @@
+{
+  "name": "retyped-leaflet-tsd-ambient",
+  "description": "TypeScript typings for leaflet",
+  "version": "0.7.3-0",
+  "licence": "MIT",
+  "repository": "https://github.com/retyped/leaflet-tsd-ambient",
+  "typescript": {
+    "definition": "leaflet.d.ts"
+  },
+  "keywords": [
+    "retyped",
+    "tsd",
+    "tsd-ambient"
+  ]
+}
